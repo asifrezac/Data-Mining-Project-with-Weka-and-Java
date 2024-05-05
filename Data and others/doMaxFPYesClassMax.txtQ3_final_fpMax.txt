@@ -1,0 +1,33 @@
+age=40s #SUP: 1063
+default_credit=no education=tertiary job=management #SUP: 1128
+default_credit=no loan=no job=management #SUP: 1202
+default_credit=no loan=no balance=1k-2k #SUP: 1252
+default_credit=no loan=no past_marketing=unknown call_duration=500-1k #SUP: 1061
+default_credit=no loan=no age=21-30s marital=single #SUP: 1467
+default_credit=no call_duration=100-500s marital=single #SUP: 1071
+default_credit=no loan=no housing=no marital=single #SUP: 1153
+default_credit=no loan=no past_marketing=unknown marital=single #SUP: 1109
+default_credit=no age=21-30s housing=yes #SUP: 1162
+default_credit=no loan=no past_marketing=unknown housing=yes #SUP: 1077
+default_credit=no loan=no age=21-30s education=tertiary #SUP: 1157
+default_credit=no loan=no call_duration=100-500s education=tertiary #SUP: 1126
+default_credit=no loan=no housing=no education=tertiary #SUP: 1320
+default_credit=no loan=no past_marketing=unknown education=tertiary #SUP: 1114
+default_credit=no loan=no balance=below-1k education=secondary #SUP: 1090
+default_credit=no loan=no marital=married education=secondary #SUP: 1137
+default_credit=no loan=no age=21-30s education=secondary #SUP: 1159
+default_credit=no loan=no call_duration=100-500s education=secondary #SUP: 1171
+default_credit=no loan=no housing=no education=secondary #SUP: 1268
+default_credit=no loan=no past_marketing=unknown education=secondary #SUP: 1355
+default_credit=no loan=no marital=married balance=below-1k #SUP: 1083
+default_credit=no loan=no age=21-30s balance=below-1k #SUP: 1340
+default_credit=no loan=no call_duration=100-500s balance=below-1k #SUP: 1286
+default_credit=no loan=no housing=no balance=below-1k #SUP: 1456
+default_credit=no loan=no past_marketing=unknown balance=below-1k #SUP: 1440
+default_credit=no loan=no housing=no call_duration=100-500s marital=married #SUP: 1075
+default_credit=no loan=no past_marketing=unknown marital=married #SUP: 1502
+default_credit=no housing=no call_duration=100-500s age=21-30s #SUP: 1085
+default_credit=no loan=no call_duration=100-500s age=21-30s #SUP: 1427
+default_credit=no loan=no housing=no age=21-30s #SUP: 1506
+default_credit=no loan=no past_marketing=unknown age=21-30s #SUP: 1586
+default_credit=no loan=no past_marketing=unknown housing=no call_duration=100-500s #SUP: 1124

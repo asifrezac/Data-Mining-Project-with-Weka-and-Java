@@ -1,0 +1,43 @@
+default_credit=no job=management #SUP: 8001
+default_credit=no job=blue-collar #SUP: 8838
+default_credit=no loan=no age=40s #SUP: 8601
+default_credit=no past_marketing=unknown age=40s #SUP: 8823
+default_credit=no loan=no call_duration=100s-below #SUP: 8894
+default_credit=no past_marketing=unknown call_duration=100s-below #SUP: 8894
+default_credit=no age=21-30s marital=single #SUP: 8643
+default_credit=no loan=no marital=single #SUP: 9223
+default_credit=no past_marketing=unknown marital=single #SUP: 8772
+past_marketing=unknown loan=no education=tertiary #SUP: 8041
+default_credit=no loan=no education=tertiary #SUP: 9538
+default_credit=no past_marketing=unknown education=tertiary #SUP: 9254
+default_credit=no balance=below-1k housing=no #SUP: 8310
+default_credit=no loan=no marital=married housing=no #SUP: 8452
+default_credit=no past_marketing=unknown marital=married housing=no #SUP: 8917
+default_credit=no loan=no call_duration=100-500s housing=no #SUP: 8824
+default_credit=no past_marketing=unknown call_duration=100-500s housing=no #SUP: 9171
+default_credit=no past_marketing=unknown loan=no housing=no #SUP: 12250
+default_credit=no loan=no education=secondary age=21-30s #SUP: 8975
+default_credit=no past_marketing=unknown education=secondary age=21-30s #SUP: 9130
+default_credit=no loan=no balance=below-1k age=21-30s #SUP: 9337
+default_credit=no past_marketing=unknown balance=below-1k age=21-30s #SUP: 9282
+default_credit=no call_duration=100-500s housing=yes age=21-30s #SUP: 8656
+default_credit=no past_marketing=unknown loan=no housing=yes age=21-30s #SUP: 8580
+default_credit=no loan=no marital=married age=21-30s #SUP: 8172
+default_credit=no past_marketing=unknown marital=married age=21-30s #SUP: 8377
+default_credit=no past_marketing=unknown loan=no call_duration=100-500s age=21-30s #SUP: 9131
+default_credit=no loan=no balance=below-1k education=secondary #SUP: 8874
+default_credit=no past_marketing=unknown balance=below-1k education=secondary #SUP: 9155
+default_credit=no call_duration=100-500s housing=yes education=secondary #SUP: 8584
+default_credit=no past_marketing=unknown loan=no housing=yes education=secondary #SUP: 8284
+default_credit=no call_duration=100-500s marital=married education=secondary #SUP: 8095
+default_credit=no past_marketing=unknown loan=no marital=married education=secondary #SUP: 8198
+default_credit=no past_marketing=unknown loan=no call_duration=100-500s education=secondary #SUP: 8995
+default_credit=no call_duration=100-500s housing=yes balance=below-1k #SUP: 8127
+default_credit=no past_marketing=unknown loan=no housing=yes balance=below-1k #SUP: 8104
+call_duration=100-500s marital=married balance=below-1k #SUP: 8008
+default_credit=no past_marketing=unknown loan=no marital=married balance=below-1k #SUP: 8421
+default_credit=no past_marketing=unknown loan=no call_duration=100-500s balance=below-1k #SUP: 9284
+default_credit=no call_duration=100-500s marital=married housing=yes #SUP: 9285
+default_credit=no past_marketing=unknown loan=no marital=married housing=yes #SUP: 9236
+default_credit=no past_marketing=unknown loan=no call_duration=100-500s housing=yes #SUP: 10020
+default_credit=no past_marketing=unknown loan=no call_duration=100-500s marital=married #SUP: 10813

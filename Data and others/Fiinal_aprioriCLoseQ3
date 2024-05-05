@@ -1,0 +1,81 @@
+default_credit=no #SUP: 44396
+housing=no #SUP: 20081
+loan=no #SUP: 37967
+call_duration=100-500s #SUP: 28934
+subscribed=no #SUP: 39922
+past_marketing=unknown #SUP: 36959
+age=21-30s #SUP: 23265
+marital=married #SUP: 27214
+housing=yes #SUP: 25130
+education=secondary #SUP: 23202
+balance=below-1k #SUP: 23289
+default_credit=no housing=no  #SUP: 19701
+default_credit=no loan=no  #SUP: 37453
+default_credit=no call_duration=100-500s  #SUP: 28413
+default_credit=no subscribed=no  #SUP: 39159
+default_credit=no past_marketing=unknown  #SUP: 36201
+default_credit=no age=21-30s  #SUP: 22824
+default_credit=no marital=married  #SUP: 26766
+default_credit=no housing=yes  #SUP: 24695
+default_credit=no education=secondary  #SUP: 22744
+default_credit=no balance=below-1k  #SUP: 23049
+loan=no call_duration=100-500s  #SUP: 24265
+loan=no subscribed=no  #SUP: 33162
+loan=no past_marketing=unknown  #SUP: 30836
+loan=no age=21-30s  #SUP: 19592
+loan=no marital=married  #SUP: 22554
+loan=no housing=yes  #SUP: 20763
+loan=no education=secondary  #SUP: 18899
+loan=no balance=below-1k  #SUP: 19439
+call_duration=100-500s subscribed=no  #SUP: 26044
+call_duration=100-500s past_marketing=unknown  #SUP: 23358
+subscribed=no past_marketing=unknown  #SUP: 33573
+subscribed=no age=21-30s  #SUP: 20457
+subscribed=no marital=married  #SUP: 24459
+subscribed=no housing=yes  #SUP: 23195
+subscribed=no education=secondary  #SUP: 20752
+subscribed=no balance=below-1k  #SUP: 20755
+past_marketing=unknown age=21-30s  #SUP: 18797
+past_marketing=unknown marital=married  #SUP: 22472
+past_marketing=unknown housing=yes  #SUP: 19990
+past_marketing=unknown education=secondary  #SUP: 18951
+past_marketing=unknown balance=below-1k  #SUP: 19082
+default_credit=no loan=no call_duration=100-500s  #SUP: 23929
+default_credit=no loan=no subscribed=no  #SUP: 32685
+default_credit=no loan=no past_marketing=unknown  #SUP: 30359
+default_credit=no loan=no age=21-30s  #SUP: 19307
+default_credit=no loan=no marital=married  #SUP: 22270
+default_credit=no loan=no housing=yes  #SUP: 20461
+default_credit=no loan=no education=secondary  #SUP: 18608
+default_credit=no loan=no balance=below-1k  #SUP: 19277
+default_credit=no call_duration=100-500s subscribed=no  #SUP: 25538
+default_credit=no call_duration=100-500s past_marketing=unknown  #SUP: 22866
+default_credit=no subscribed=no past_marketing=unknown  #SUP: 32862
+default_credit=no subscribed=no age=21-30s  #SUP: 20043
+default_credit=no subscribed=no marital=married  #SUP: 24031
+default_credit=no subscribed=no housing=yes  #SUP: 22789
+default_credit=no subscribed=no education=secondary  #SUP: 20322
+default_credit=no subscribed=no balance=below-1k  #SUP: 20528
+default_credit=no past_marketing=unknown age=21-30s  #SUP: 18393
+default_credit=no past_marketing=unknown marital=married  #SUP: 22046
+default_credit=no past_marketing=unknown housing=yes  #SUP: 19598
+default_credit=no past_marketing=unknown education=secondary  #SUP: 18532
+default_credit=no past_marketing=unknown balance=below-1k  #SUP: 18858
+loan=no call_duration=100-500s subscribed=no  #SUP: 21540
+loan=no call_duration=100-500s past_marketing=unknown  #SUP: 19432
+loan=no subscribed=no past_marketing=unknown  #SUP: 27814
+loan=no subscribed=no marital=married  #SUP: 20069
+loan=no subscribed=no housing=yes  #SUP: 19093
+loan=no past_marketing=unknown marital=married  #SUP: 18555
+call_duration=100-500s subscribed=no past_marketing=unknown  #SUP: 21830
+subscribed=no past_marketing=unknown marital=married  #SUP: 20766
+subscribed=no past_marketing=unknown housing=yes  #SUP: 18705
+default_credit=no loan=no call_duration=100-500s subscribed=no  #SUP: 21217
+default_credit=no loan=no call_duration=100-500s past_marketing=unknown  #SUP: 19115
+default_credit=no loan=no subscribed=no past_marketing=unknown  #SUP: 27371
+default_credit=no loan=no subscribed=no marital=married  #SUP: 19799
+default_credit=no loan=no subscribed=no housing=yes  #SUP: 18813
+default_credit=no loan=no past_marketing=unknown marital=married  #SUP: 18285
+default_credit=no call_duration=100-500s subscribed=no past_marketing=unknown  #SUP: 21352
+default_credit=no subscribed=no past_marketing=unknown marital=married  #SUP: 20357
+default_credit=no subscribed=no past_marketing=unknown housing=yes  #SUP: 18337

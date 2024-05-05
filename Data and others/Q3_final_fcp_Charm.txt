@@ -1,0 +1,81 @@
+default_credit=no housing=no  #SUP: 19701
+housing=no  #SUP: 20081
+default_credit=no past_marketing=unknown education=secondary  #SUP: 18532
+past_marketing=unknown education=secondary  #SUP: 18951
+default_credit=no loan=no education=secondary  #SUP: 18608
+loan=no education=secondary  #SUP: 18899
+default_credit=no subscribed=no education=secondary  #SUP: 20322
+subscribed=no education=secondary  #SUP: 20752
+default_credit=no education=secondary  #SUP: 22744
+education=secondary  #SUP: 23202
+default_credit=no past_marketing=unknown age=21-30s  #SUP: 18393
+past_marketing=unknown age=21-30s  #SUP: 18797
+default_credit=no loan=no age=21-30s  #SUP: 19307
+loan=no age=21-30s  #SUP: 19592
+default_credit=no subscribed=no age=21-30s  #SUP: 20043
+subscribed=no age=21-30s  #SUP: 20457
+default_credit=no age=21-30s  #SUP: 22824
+age=21-30s  #SUP: 23265
+default_credit=no past_marketing=unknown balance=below-1k  #SUP: 18858
+past_marketing=unknown balance=below-1k  #SUP: 19082
+default_credit=no loan=no balance=below-1k  #SUP: 19277
+loan=no balance=below-1k  #SUP: 19439
+default_credit=no subscribed=no balance=below-1k  #SUP: 20528
+subscribed=no balance=below-1k  #SUP: 20755
+default_credit=no balance=below-1k  #SUP: 23049
+balance=below-1k  #SUP: 23289
+default_credit=no subscribed=no past_marketing=unknown housing=yes  #SUP: 18337
+subscribed=no past_marketing=unknown housing=yes  #SUP: 18705
+default_credit=no past_marketing=unknown housing=yes  #SUP: 19598
+past_marketing=unknown housing=yes  #SUP: 19990
+default_credit=no loan=no subscribed=no housing=yes  #SUP: 18813
+loan=no subscribed=no housing=yes  #SUP: 19093
+default_credit=no loan=no housing=yes  #SUP: 20461
+loan=no housing=yes  #SUP: 20763
+default_credit=no subscribed=no housing=yes  #SUP: 22789
+subscribed=no housing=yes  #SUP: 23195
+default_credit=no housing=yes  #SUP: 24695
+housing=yes  #SUP: 25130
+default_credit=no loan=no past_marketing=unknown marital=married  #SUP: 18285
+loan=no past_marketing=unknown marital=married  #SUP: 18555
+default_credit=no subscribed=no past_marketing=unknown marital=married  #SUP: 20357
+subscribed=no past_marketing=unknown marital=married  #SUP: 20766
+default_credit=no past_marketing=unknown marital=married  #SUP: 22046
+past_marketing=unknown marital=married  #SUP: 22472
+default_credit=no loan=no subscribed=no marital=married  #SUP: 19799
+loan=no subscribed=no marital=married  #SUP: 20069
+default_credit=no loan=no marital=married  #SUP: 22270
+loan=no marital=married  #SUP: 22554
+default_credit=no subscribed=no marital=married  #SUP: 24031
+subscribed=no marital=married  #SUP: 24459
+default_credit=no marital=married  #SUP: 26766
+marital=married  #SUP: 27214
+default_credit=no loan=no call_duration=100-500s past_marketing=unknown  #SUP: 19115
+loan=no call_duration=100-500s past_marketing=unknown  #SUP: 19432
+default_credit=no call_duration=100-500s subscribed=no past_marketing=unknown  #SUP: 21352
+call_duration=100-500s subscribed=no past_marketing=unknown  #SUP: 21830
+default_credit=no call_duration=100-500s past_marketing=unknown  #SUP: 22866
+call_duration=100-500s past_marketing=unknown  #SUP: 23358
+default_credit=no loan=no call_duration=100-500s subscribed=no  #SUP: 21217
+loan=no call_duration=100-500s subscribed=no  #SUP: 21540
+default_credit=no loan=no call_duration=100-500s  #SUP: 23929
+loan=no call_duration=100-500s  #SUP: 24265
+default_credit=no call_duration=100-500s subscribed=no  #SUP: 25538
+call_duration=100-500s subscribed=no  #SUP: 26044
+default_credit=no call_duration=100-500s  #SUP: 28413
+call_duration=100-500s  #SUP: 28934
+default_credit=no loan=no subscribed=no past_marketing=unknown  #SUP: 27371
+loan=no subscribed=no past_marketing=unknown  #SUP: 27814
+default_credit=no loan=no past_marketing=unknown  #SUP: 30359
+loan=no past_marketing=unknown  #SUP: 30836
+default_credit=no subscribed=no past_marketing=unknown  #SUP: 32862
+subscribed=no past_marketing=unknown  #SUP: 33573
+default_credit=no past_marketing=unknown  #SUP: 36201
+past_marketing=unknown  #SUP: 36959
+default_credit=no loan=no subscribed=no  #SUP: 32685
+loan=no subscribed=no  #SUP: 33162
+default_credit=no loan=no  #SUP: 37453
+loan=no  #SUP: 37967
+default_credit=no subscribed=no  #SUP: 39159
+subscribed=no  #SUP: 39922
+default_credit=no  #SUP: 44396
